@@ -1,4 +1,4 @@
-# Single-pixel-ptychography
+# Single-pixel-ptychography (SPY)
 This repository contains the MATLAB code for the paper Single-pixel ptychography by Meng Li, Liheng Bian, Guoan Zheng, Andrew Maiden, Yang Liu, Yiming Li, Qionghai Dai, and Jun Zhang. 
 
 
@@ -12,4 +12,9 @@ Download this repository via git
 
 or download the zip file manually.
 
-## Run SPY on simulated object
+## Run SPY
+
+Test the single-pixel phase retrieval algorithm via
+
+    SPY.m
+
